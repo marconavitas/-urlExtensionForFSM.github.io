@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background: #4a5658;
+}
+
+.card {
+    background: #fff;
+    border-radius: 3px;
+    padding: 12px;
+    margin: 12px;
+}

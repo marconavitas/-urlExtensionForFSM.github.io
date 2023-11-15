@@ -1,0 +1,11 @@
+{
+  "name": "demo-leave-request",
+  "version": "1.0.0",
+  "description": "Demo Leave Request Extension",
+  "main": "index.html",
+  "scripts": {
+    "test": "go-test"
+  },
+  "author": "SAP FSM",
+  "license": "ISC"
+}

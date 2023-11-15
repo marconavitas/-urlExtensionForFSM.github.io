@@ -1,0 +1,11 @@
+{
+    "name": "Demo Leave Request Create",
+    "provider": "SAP FSM",
+    "description": "Demo Leave Request Create Extension",
+    "version": "1.0.0",
+    "icon": "https://keep-smile.github.io/em-test-extension/yes-sign.png",
+    "useShellSDK": false,
+    "outletPositions": [],
+    "insideShell": false,
+    "extensionAttributes": []
+}
