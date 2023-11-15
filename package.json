@@ -1,7 +1,7 @@
 {
-  "name": "demo-leave-request",
+  "name": "SRC-Reporting",
   "version": "1.0.0",
-  "description": "Demo Leave Request Extension",
+  "description": "SRC Reporting",
   "main": "index.html",
   "scripts": {
     "test": "go-test"
