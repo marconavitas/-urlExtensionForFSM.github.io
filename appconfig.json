@@ -3,7 +3,7 @@
     "provider": "SAP FSM",
     "description": "SRC Reporting",
     "version": "1.0.0",
-    "icon": "https://keep-smile.github.io/em-test-extension/yes-sign.png",
+    "icon": "https://urlExtensionForFSM.github.io/SRCLogo.jpg",
     "useShellSDK": false,
     "outletPositions": [],
     "insideShell": false,
