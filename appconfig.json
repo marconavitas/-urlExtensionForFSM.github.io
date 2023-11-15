@@ -3,7 +3,7 @@
     "provider": "SAP FSM",
     "description": "SRC Reporting",
     "version": "1.0.0",
-    "icon": "SRCLogo.jpg",
+    "icon": "SRCLogo.png",
     "useShellSDK": false,
     "outletPositions": [],
     "insideShell": false,
